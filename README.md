@@ -5,6 +5,8 @@ Como executar o scanner de portas:
 
     Executar o script: Após salvar o arquivo, abra o terminal ou prompt de comando, navegue até o diretório onde o arquivo está salvo e execute o script com o comando:
 
+    Você deve ter o python instalado para executar o script
+
 python scanner_de_portas.py
 
 Inserir o IP do alvo: O script pedirá para você digitar o IP do alvo, que pode ser o IP de um roteador ou servidor que você deseja escanear. Exemplo:
