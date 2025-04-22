@@ -11,7 +11,7 @@ python scanner_de_portas.py
 
 Inserir o IP do alvo: O script pedirá para você digitar o IP do alvo, que pode ser o IP de um roteador ou servidor que você deseja escanear. Exemplo:
 
-Digite o IP do alvo: 112.130.1.1
+Digite o IP do alvo: 192.168.1.1
 
 Resultados: O script vai verificar se as portas listadas (como 21, 22, 23, 25, 53, 80, 443, 8080) estão abertas ou fechadas no IP especificado. Ele irá exibir uma mensagem indicando o estado de cada porta, por exemplo:
 
